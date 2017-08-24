@@ -1,19 +1,17 @@
-# Javascript 101 Exercises Introduction
+# PHP 101 Exercises Introduction
 
 ## Grades
-Exercise                                  | Complete
------------------------------------------ | -------------
-Level 1 Talking To Yourself - Exercise 1  |
-Level 1 Talking To Yourself - Exercise 2  |
-Level 2 Meet my friend DOM - Exercise 1   |
-Level 2 Meet my friend DOM - Exercise 2   |
+Exercise                                     | Complete
+-------------------------------------------- | -------------
+Level 1 Build an HTML template - Exercise 1  |
 
-## Why Javascript?
-With every action a user takes, Javascript can listen and track what happened or return new content. Just about anything you have in mind.
+## Why PHP?
+On the surface, server side programming introduces three initial benefits:
+– dynamic data
+– secure connection to database
+– faster page loads with server side rendering (server does all the work to build the pages)
 
-Javascript is everywhere on the web. For example, Javascript can be found in [dropdown menus](http://getbootstrap.com/javascript/#dropdowns), [tabs](http://getbootstrap.com/javascript/#tabs), or [modals](http://getbootstrap.com/javascript/#modals).
-
-This is how you add magic to your websites and applications.
+Let's roll up the sleeves and dig in.
 
 ## Resources needed:
 You'll need to be able to access these domains to walk-through these exercises.
@@ -29,7 +27,7 @@ You'll need to be able to access these domains to walk-through these exercises.
 1. fork this repo into your Github account
 1. ** turn on Github Pages on master branch **
 1. copy the clone link of your forked version
-1. create and name a new workspace in Cloud9 as `dc-javascript-exercises`
+1. create and name a new workspace in Cloud9 as `dc-php-exercises`
 1. past your clone link into the `Clone from Git` field
 1. select `HTML5` template
 1. click `Create workspace`
